@@ -38,38 +38,54 @@ Data yang digunakan dalam analisis ini meliputi:
 
 ### 1. Identifikasi Perilaku Pembeli
 - **Cohort Analysis - Retensi Pembeli**
+  
   ![image](https://github.com/user-attachments/assets/a65ec5dc-2800-4fe1-936d-5b51301d9b65)
+
   Grafik ini melacak seberapa lama pembeli tetap aktif setelah transaksi pertama mereka. Penurunan yang tajam dapat menunjukkan masalah dalam pengalaman pengguna atau faktor yang terkait dengan kecurangan.
 
 - **Cohort Analysis - Transaksi Berulang**
+  
   ![image](https://github.com/user-attachments/assets/5ad0b105-5139-436a-aab7-45c09c583ef6)
+
   Grafik ini menganalisis persentase pengguna yang melakukan pembelian berulang. Penurunan signifikan dapat menunjukkan kurangnya kepercayaan atau adanya aktivitas fraud yang menghambat alur transaksi normal.
 
 ### 2. Analisis Tren Fraud
 - **Grafik Garis - Persentase Fraud per Bulan**
+
   ![image](https://github.com/user-attachments/assets/3874b6d5-b90e-4be3-bbd5-9fb6777e937c)
+
   Menampilkan tren transaksi fraud setiap bulan. Lonjakan yang tiba-tiba dapat menunjukkan aktivitas fraud musiman atau eksploitasi celah sistem.
 
 - **Grafik Garis - Persentase Fraud Setelah Promosi per Bulan**
+
   ![image](https://github.com/user-attachments/assets/fb952103-8b30-43ea-9611-abfa17004dcb)
+
   Membandingkan tingkat fraud sebelum dan setelah promosi. Jika fraud meningkat setelah promosi, ini menunjukkan adanya eksploitasi terhadap penawaran tertentu oleh pengguna fraud.
 
 ### 3. Pola Temporal Fraud
 - **Grafik Garis - Tren Transaksi Fraud per Bulan**
+
   ![image](https://github.com/user-attachments/assets/3b944a1c-e4b0-4a25-bcf1-85edd3290d74)
+
   Menggambarkan evolusi transaksi fraud dari waktu ke waktu, membantu mengidentifikasi periode dengan risiko tinggi.
 
 - **Diagram Batang - Waktu Pembuatan Transaksi per Bulan**
+
   ![image](https://github.com/user-attachments/assets/1c234b1a-32c3-4d8c-8f9f-95d1eee37274)
+
   Menampilkan kapan transaksi paling sering terjadi. Anomali, seperti lonjakan tidak wajar pada jam-jam tertentu, dapat mengindikasikan upaya fraud otomatis.
 
 ### 4. Analisis Jaringan Fraud
 - **Diagram Batang - Pemicu Fraud Teratas dan Pengguna Fraud yang Paling Terhubung**
+
   ![image](https://github.com/user-attachments/assets/75d39185-4313-44a8-a1c7-ad5e8aae510d)
+
   Mengidentifikasi individu atau entitas yang sering terlibat dalam aktivitas fraud. Koneksi tinggi dalam grafik ini menunjukkan adanya jaringan fraud yang terorganisir.
 
 - **Diagram Batang - Hubungan Pembeli-Penjual yang Terlibat dalam Fraud**
+
   ![image](https://github.com/user-attachments/assets/999b932b-9989-4c92-a860-73776926eb43)
+
   Mengungkap adanya perilaku kolusi antara pembeli dan penjual. Tingkat interaksi yang mencurigakan bisa menunjukkan skema fraud.
 
 
