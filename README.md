@@ -104,6 +104,7 @@ Analisis menunjukkan adanya pola transaksi mencurigakan seperti:
 - Hubungan yang tidak normal antara pembeli dan penjual.
 - Lonjakan aktivitas transaksi yang tidak wajar.
 - Penyalahgunaan program promosi.
+
 Untuk mengatasi masalah ini, perusahaan perlu mengambil langkah strategis:
 1. **Memperketat verifikasi pengguna** untuk mengurangi pendaftaran akun palsu.
 2. **Memantau transaksi secara real-time** guna mendeteksi pola penipuan.
